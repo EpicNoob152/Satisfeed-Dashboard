@@ -12,7 +12,7 @@ Jaylan Igbinoba - Visualization/Project Documenter
 Ethan Boderas -
 
 <img width="984" height="1254" alt="image" src="https://github.com/user-attachments/assets/f4f0cb88-477e-46bc-903a-3ae02a6ff626" width="200" />
-Wilmer Cifuentes -
+Wilmer Cifuentes - Data Analyzer/Project Manager
 
 
 
